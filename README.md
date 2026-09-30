@@ -1,56 +1,64 @@
-# Technical SDR Portfolio
+# Technical SDR / BDR Portfolio
 
-## Overview
+> Technical B2B sales execution across SaaS, DevTools, Cloud, Cybersecurity, and AI.
 
-This repository demonstrates my approach to technical B2B sales across
-SaaS, DevTools, Cloud, Cybersecurity, and AI.
+This portfolio demonstrates how I approach technical sales from **account research through opportunity qualification and AE/SE handoff**.
 
-The portfolio focuses on the intersection of:
+The work is designed to show that I can understand technical environments well enough to have credible conversations with technical buyers — without pretending to be the Solutions Engineer.
 
-- B2B sales execution
-- Technical account research
-- Persona mapping
-- Technical discovery
-- Qualification
-- Cloud and infrastructure knowledge
-- AE/SE collaboration
-- CRM and pipeline management
-- Sales performance analysis
+---
 
-## Flagship Project
+## What This Portfolio Demonstrates
 
-### End-to-End Technical SDR Sales Simulation
+| Capability | What I Demonstrate |
+|---|---|
+| Account Research | Technical environment, public signals, ICP assessment |
+| Persona Mapping | Buying groups, technical stakeholders, business stakeholders |
+| Technical Prospecting | Research-backed hypotheses and trigger-based outreach |
+| Outbound | Email, LinkedIn, calling, objection handling |
+| Qualification | Problem, impact, urgency, stakeholders, existing solution |
+| Technical Discovery | Infrastructure, workflows, systems, automation boundaries |
+| Product Knowledge | Technical product teardown and use-case mapping |
+| AE / SE Handoff | Structured commercial and technical opportunity context |
+| CRM | Pipeline stages, activity logging, opportunity management |
+| Sales Analytics | Funnel, persona, channel, and sequence analysis |
+| Technical Fluency | Cloud, Kubernetes, security, DevOps, engineering workflows |
 
-I researched a cloud-native technology account, identified relevant
-technical buying personas, developed an account-specific sales hypothesis,
-created technical outbound messaging, simulated qualification and
-discovery, and produced AE/SE-ready handoff documentation.
+---
+
+# The Capstone
+
+## End-to-End Technical SDR Sales Simulation
 
 **Account:** Figma  
-**Category:** Cloud Security / CNAPP  
-**Primary Persona:** Platform Security / Security Engineering
+**Industry:** B2B SaaS  
+**Sales Category:** Cloud Security / DevSecOps  
+**Primary Persona:** Security Engineering  
+**Product Used for Analysis:** Wiz
 
-> This is a simulated sales exercise based on publicly available
-> information. It does not represent an actual interaction with Figma
-> or its employees.
-
-## Sales Process
+The capstone follows a complete simulated sales cycle:
 
 ```text
-Account Research
+ACCOUNT RESEARCH
        ↓
-Persona Mapping
+PERSONA MAPPING
        ↓
-Technical Hypothesis
+TECHNICAL HYPOTHESIS
        ↓
-Outbound
+OUTBOUND
        ↓
-Qualification
+PROSPECT RESPONSE
        ↓
-Technical Discovery
+QUALIFICATION
        ↓
-AE / SE Handoff
+TECHNICAL DISCOVERY
        ↓
-CRM / Pipeline
+REQUIREMENTS
        ↓
-Performance Analysis
+AE / SE HANDOFF
+       ↓
+TECHNICAL VALIDATION
+       ↓
+CRM / PIPELINE
+       ↓
+SEQUENCE ANALYSIS
