@@ -1,0 +1,24 @@
+# Pipeline Stages
+
+> **PORTFOLIO SIMULATION**
+
+---
+
+## Pipeline
+
+```text
+TARGET
+  ↓
+CONTACTED
+  ↓
+ENGAGED
+  ↓
+QUALIFIED
+  ↓
+DISCOVERY
+  ↓
+TECHNICAL VALIDATION
+  ↓
+AE / SE EVALUATION
+  ↓
+OPPORTUNITY
