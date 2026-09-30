@@ -1,0 +1,21 @@
+account,persona,channel,touch_1,touch_2,touch_3,replied,positive_reply,meeting_booked,qualified,sequence_status
+Account-01,Security Engineering,Email,Sent,Sent,Sent,Yes,Yes,Yes,Yes,Qualified
+Account-02,Cloud Security,Email,Sent,Sent,Sent,Yes,Yes,Yes,Yes,Qualified
+Account-03,Platform Engineering,Email,Sent,Sent,Sent,Yes,No,No,No,Closed
+Account-04,Security Engineering,LinkedIn,Sent,Sent,Sent,Yes,Yes,Yes,No,Discovery
+Account-05,Security Operations,Email,Sent,Sent,Sent,Yes,No,No,No,Closed
+Account-06,Cloud Security,LinkedIn,Sent,Sent,Sent,Yes,Yes,Yes,Yes,Qualified
+Account-07,Platform Security,Email,Sent,Sent,Sent,No,No,No,No,No Response
+Account-08,Security Engineering,Email,Sent,Sent,Sent,Yes,Yes,Yes,Yes,Qualified
+Account-09,Platform Engineering,LinkedIn,Sent,Sent,Sent,No,No,No,No,No Response
+Account-10,Cloud Security,Email,Sent,Sent,Sent,Yes,Yes,Yes,Yes,Qualified
+Account-11,Security Operations,LinkedIn,Sent,Sent,Sent,Yes,No,No,No,Closed
+Account-12,Security Engineering,Email,Sent,Sent,Sent,Yes,Yes,Yes,Yes,Qualified
+Account-13,Platform Security,Email,Sent,Sent,Sent,No,No,No,No,No Response
+Account-14,Cloud Security,LinkedIn,Sent,Sent,Sent,Yes,Yes,Yes,Yes,Qualified
+Account-15,Security Engineering,Email,Sent,Sent,Sent,Yes,No,No,No,Closed
+Account-16,Platform Engineering,Email,Sent,Sent,Sent,No,No,No,No,No Response
+Account-17,Security Operations,Email,Sent,Sent,Sent,Yes,Yes,Yes,No,Discovery
+Account-18,Security Engineering,LinkedIn,Sent,Sent,Sent,Yes,Yes,Yes,Yes,Qualified
+Account-19,Cloud Security,Email,Sent,Sent,Sent,No,No,No,No,No Response
+Account-20,Platform Security,LinkedIn,Sent,Sent,Sent,Yes,Yes,Yes,Yes,Qualified
