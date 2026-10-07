@@ -36,11 +36,11 @@ Public engineering material describes:
 
 Figma has also published a detailed account of its migration of most
 core services to Kubernetes. The migration followed an earlier period
-where containerized workloads ran on AWS ECS. :contentReference[oaicite:0]{index=0}
+where containerized workloads ran on AWS ECS.
 
 Figma's security team has also publicly described security operations
 covering cloud infrastructure, endpoints, SaaS applications, and
-identity systems. :contentReference[oaicite:1]{index=1}
+identity systems.
 
 This makes the account technically relevant to a cloud-security /
 DevSecOps sales motion.
